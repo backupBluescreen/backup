@@ -16,7 +16,7 @@
 ### **개발 환경** 
 - Framework : Springboot
 - Database : Oracle DB
-- ORM : Mybatis
+- ORM : MyBatis
 
 ### **주요기능** 
 - 지도 검색 : 주변 약국과 폐의약품 수거함 위치 확인
