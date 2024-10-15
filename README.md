@@ -14,9 +14,9 @@
 - 2024.08.12 ~ 2024.10.04
 
 ### **개발 환경** 
--Framework : Springboot
--Database : Oracle DB
--ORM : Mybatis
+- Framework : Springboot
+- Database : Oracle DB
+- ORM : Mybatis
 
 ### **주요기능** 
 - 지도 검색 
